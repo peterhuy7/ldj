@@ -1,1 +1,1 @@
-from yeunhau.wsgi import application
+from app.wsgi import application
