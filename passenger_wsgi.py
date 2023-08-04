@@ -1,0 +1,1 @@
+from yeunhau.wsgi import application
